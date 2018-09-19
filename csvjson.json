@@ -1,0 +1,326 @@
+[
+  {
+    "ID": 1,
+    "Category": "Pizza Vegetale",
+    "Name": "Marinara",
+    "Price": 52,
+    "Picture": "MarinaraB",
+    "Vegetarian": "Ja",
+    "Kort beskrivelse": "Tomat, ost, frisk basilikum%u200B"
+  },
+  {
+    "ID": 2,
+    "Category": "Pizza Vegetale",
+    "Name": "Mediterranea",
+    "Price": 65,
+    "Picture": "MediterraneaB",
+    "Vegetarian": "Ja",
+    "Kort beskrivelse": "Tomat, ost, bøffelmozzarella, rucola, cherry tomater og parmesan"
+  },
+  {
+    "ID": 3,
+    "Category": "Pizza Vegetale",
+    "Name": "Quattro Stagioni",
+    "Price": 60,
+    "Picture": "Quattro StagioniB",
+    "Vegetarian": "Ja",
+    "Kort beskrivelse": "Tomat, ost, mozzarella, champignon, artiskokker, oliven, og oregano"
+  },
+  {
+    "ID": 4,
+    "Category": "Pizza Vegetale",
+    "Name": "Quattro Formaggi",
+    "Price": 62,
+    "Picture": "Quattro FormaggiB",
+    "Vegetarian": "Ja",
+    "Kort beskrivelse": "Tomat, ost, mozzarella, parmesan, gorgonzola ost, artiskokker og oregano"
+  },
+  {
+    "ID": 5,
+    "Category": "Pizza Vegetale",
+    "Name": "Margherita",
+    "Price": 47,
+    "Picture": "MargheritaB",
+    "Vegetarian": "Ja",
+    "Kort beskrivelse": "Tomat, ost, mozzarella og oregano"
+  },
+  {
+    "ID": 6,
+    "Category": "Pizza Traditionale",
+    "Name": "Frutti di Mare",
+    "Price": 54,
+    "Picture": "Frutti di MareB",
+    "Vegetarian": "Nej",
+    "Kort beskrivelse": "Tomat, ost og skaldyr"
+  },
+  {
+    "ID": 7,
+    "Category": "Pizza Traditionale",
+    "Name": "Diavola",
+    "Price": 56,
+    "Picture": "DiavolaB",
+    "Vegetarian": "Nej",
+    "Kort beskrivelse": "Tomat, ost, mozzarella, krydret salami og chili"
+  },
+  {
+    "ID": 8,
+    "Category": "Pizza Traditionale",
+    "Name": "Capricciosa",
+    "Price": 59,
+    "Picture": "CapricciosaB",
+    "Vegetarian": "Nej",
+    "Kort beskrivelse": "Tomat, ost, skinke, champignon, artiskok, paprika"
+  },
+  {
+    "ID": 9,
+    "Category": "Pizza Traditionale",
+    "Name": "Romana",
+    "Price": 62,
+    "Picture": "RomanaB",
+    "Vegetarian": "Nej",
+    "Kort beskrivelse": "Tomat, ost, mozzarella, ansjos, kapers og oregano"
+  },
+  {
+    "ID": 10,
+    "Category": "Pizza Traditionale",
+    "Name": "Prosciutto",
+    "Price": 52,
+    "Picture": "Prosciutto",
+    "Vegetarian": "Nej",
+    "Kort beskrivelse": "Tomat, ost, skinke"
+  },
+  {
+    "ID": 11,
+    "Category": "Pizza Traditionale",
+    "Name": "Calzone",
+    "Price": 57,
+    "Picture": "CalzoneB",
+    "Vegetarian": "Nej",
+    "Kort beskrivelse": "Tomat, ost, skinke, champignon"
+  },
+  {
+    "ID": 12,
+    "Category": "Pizza Traditionale",
+    "Name": "Montanara",
+    "Price": 52,
+    "Picture": "MontanaraB",
+    "Vegetarian": "Nej",
+    "Kort beskrivelse": "Tomat, ost, pepperoni"
+  },
+  {
+    "ID": 13,
+    "Category": "Pizza Traditionale",
+    "Name": "Hawaii",
+    "Price": 57,
+    "Picture": "HawiiB",
+    "Vegetarian": "Nej",
+    "Kort beskrivelse": "Tomat, ost, skinke, ananas"
+  },
+  {
+    "ID": 14,
+    "Category": "Pizza Traditionale",
+    "Name": "Carbonara",
+    "Price": 64,
+    "Picture": "CarbonaraB",
+    "Vegetarian": "Nej",
+    "Kort beskrivelse": "Tomat, ost,  mozzarella, parmesan, æg og bacon"
+  },
+  {
+    "ID": 15,
+    "Category": "Pizza Traditionale",
+    "Name": "Napoli",
+    "Price": 70,
+    "Picture": "NapoliB",
+    "Vegetarian": "Nej",
+    "Kort beskrivelse": "Tomat, ost, skine og kødsauce"
+  },
+  {
+    "ID": 16,
+    "Category": "Pizza Traditionale",
+    "Name": "Crudo",
+    "Price": 61,
+    "Picture": "CrudoB",
+    "Vegetarian": "Nej",
+    "Kort beskrivelse": "Tomat, mozzarella og parma skinke"
+  },
+  {
+    "ID": 17,
+    "Category": "Pizza Traditionale",
+    "Name": "Salami",
+    "Price": 54,
+    "Picture": "SalamiB",
+    "Vegetarian": "Nej",
+    "Kort beskrivelse": "Tomat, ost og pepperoni"
+  },
+  {
+    "ID": 18,
+    "Category": "Pizza Traditionale",
+    "Name": "Vesuvio",
+    "Price": 51,
+    "Picture": "VesuvioB",
+    "Vegetarian": "Nej",
+    "Kort beskrivelse": "Tomat, ost og skinke"
+  },
+  {
+    "ID": 19,
+    "Category": "Pizza Sandwich",
+    "Name": "Parmaskinke",
+    "Price": 42,
+    "Picture": "ParmaskinkeB",
+    "Vegetarian": "Nej",
+    "Kort beskrivelse": "Alle sandwich serveres med ost, salat, tomat og hjemmelavet pesto"
+  },
+  {
+    "ID": 20,
+    "Category": "Pizza Sandwich",
+    "Name": "Skinke",
+    "Price": 42,
+    "Picture": "SkinkeB",
+    "Vegetarian": "Nej",
+    "Kort beskrivelse": "Alle sandwich serveres med ost, salat, tomat og hjemmelavet pesto"
+  },
+  {
+    "ID": 21,
+    "Category": "Pizza Sandwich",
+    "Name": "Kylling",
+    "Price": 42,
+    "Picture": "KyllingB",
+    "Vegetarian": "Nej",
+    "Kort beskrivelse": "Alle sandwich serveres med ost, salat, tomat og hjemmelavet pesto"
+  },
+  {
+    "ID": 22,
+    "Category": "Pizza Sandwich",
+    "Name": "Kalkun",
+    "Price": 42,
+    "Picture": "KalkunB",
+    "Vegetarian": "Nej",
+    "Kort beskrivelse": "Alle sandwich serveres med ost, salat, tomat og hjemmelavet pesto"
+  },
+  {
+    "ID": 23,
+    "Category": "Pizza Sandwich",
+    "Name": "Bøffelmozzarella",
+    "Price": 42,
+    "Picture": "BøffelmozzarellaB",
+    "Vegetarian": "Nej",
+    "Kort beskrivelse": "Alle sandwich serveres med ost, salat, tomat og hjemmelavet pesto"
+  },
+  {
+    "ID": 24,
+    "Category": "Pizza Sandwich",
+    "Name": "Pastrami",
+    "Price": 42,
+    "Picture": "PastramiB",
+    "Vegetarian": "Nej",
+    "Kort beskrivelse": "Alle sandwich serveres med ost, salat, tomat og hjemmelavet pesto"
+  },
+  {
+    "ID": 25,
+    "Category": "Pizza Sandwich",
+    "Name": "Bresaola",
+    "Price": 42,
+    "Picture": "BresaolaB",
+    "Vegetarian": "Nej",
+    "Kort beskrivelse": "Alle sandwich serveres med ost, salat, tomat og hjemmelavet pesto"
+  },
+  {
+    "ID": 26,
+    "Category": "Pizza Sandwich",
+    "Name": "Stærk Salami",
+    "Price": 42,
+    "Picture": "Stærk SalamiB",
+    "Vegetarian": "Nej",
+    "Kort beskrivelse": "Alle sandwich serveres med ost, salat, tomat og hjemmelavet pesto"
+  },
+  {
+    "ID": 27,
+    "Category": "Pizza Sandwich",
+    "Name": "Tun",
+    "Price": 42,
+    "Picture": "TunB",
+    "Vegetarian": "Nej",
+    "Kort beskrivelse": "Alle sandwich serveres med ost, salat, tomat og hjemmelavet pesto"
+  },
+  {
+    "ID": 28,
+    "Category": "Pasta",
+    "Name": "Lassagne",
+    "Price": 60,
+    "Picture": "LassagneB",
+    "Vegetarian": "Nej",
+    "Kort beskrivelse": ""
+  },
+  {
+    "ID": 29,
+    "Category": "Pasta",
+    "Name": "Ugens pasta",
+    "Price": 60,
+    "Picture": "UgensPastaB",
+    "Vegetarian": "Nej",
+    "Kort beskrivelse": ""
+  },
+  {
+    "ID": 30,
+    "Category": "Salater",
+    "Name": "Pasta salat",
+    "Price": 40,
+    "Picture": "PastasalatB",
+    "Vegetarian": "Nej",
+    "Kort beskrivelse": ""
+  },
+  {
+    "ID": 31,
+    "Category": "Salater",
+    "Name": "Mozzarella salat",
+    "Price": 40,
+    "Picture": "MozzarellaB",
+    "Vegetarian": "Ja",
+    "Kort beskrivelse": ""
+  },
+  {
+    "ID": 32,
+    "Category": "Salater",
+    "Name": "Kylling salat",
+    "Price": 40,
+    "Picture": "KyllingSalatB",
+    "Vegetarian": "Nej",
+    "Kort beskrivelse": ""
+  },
+  {
+    "ID": 33,
+    "Category": "Salater",
+    "Name": "Blandet salat",
+    "Price": 40,
+    "Picture": "BlandetB",
+    "Vegetarian": "Nej",
+    "Kort beskrivelse": ""
+  },
+  {
+    "ID": 34,
+    "Category": "Drikkevarer",
+    "Name": "Kildevand",
+    "Price": 12,
+    "Picture": "KildevandB",
+    "Vegetarian": "",
+    "Kort beskrivelse": ""
+  },
+  {
+    "ID": 35,
+    "Category": "Drikkevarer",
+    "Name": "0,5L",
+    "Price": 17,
+    "Picture": "0,5L",
+    "Vegetarian": "",
+    "Kort beskrivelse": ""
+  },
+  {
+    "ID": 36,
+    "Category": "Drikkevarer",
+    "Name": "1,5L",
+    "Price": 30,
+    "Picture": "1,5L",
+    "Vegetarian": "",
+    "Kort beskrivelse": ""
+  }
+]
